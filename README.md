@@ -78,12 +78,6 @@ Predicting **rating categories** from revenue trajectories
 #### 🔹 Sequential Pattern Mining  
 Discovering **frequent sequential behaviors** and rating evolution patterns across movie data
 
-### 🧰 Tech Stack  
-- **Python** (NumPy, Pandas, Matplotlib, scikit-learn)  
-- **XAI Libraries:** SHAP, LIME, LORE, FAT-Forensics  
-- **Time Series Libraries:** tslearn, TSFRESH, sktime, aeon  
-- **Visualization:** Matplotlib, Seaborn, t-SNE, PCA  
-
 <br>
 <br>
 <br>
