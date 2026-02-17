@@ -1,6 +1,4 @@
-# 🎬 IMDb Data Mining Project  
-
-**Machine Learning / Explainable AI / Time Series Analysis**
+# 🎬 Data Mining - IMDb Dataset
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?logo=scikit-learn)](https://scikit-learn.org/)
@@ -8,14 +6,10 @@
 [![XAI](https://img.shields.io/badge/XAI-Explainable%20AI-purple)](#)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
----
-
 ### 🧠 Overview  
-A complete **data mining pipeline** on the **IMDb dataset**, from preprocessing and anomaly detection to advanced classification, explainability, and time-series modeling.  
+A complete **Data Mining pipeline** on the **IMDb dataset**, focused on **Machine Learning / Explainable AI / Time Series Analysis**.
 
----
-
-### 📚 Main Topics
+### 📚 Project Steps
 
 #### 🔹 Data Preprocessing & Outlier Detection  
 Feature engineering, normalization, and anomaly detection using **PCA**, **t-SNE**, **Isolation Forest**, **LMDD**, **HBOS**, and **DBSCAN**
@@ -63,7 +57,6 @@ Analysis of **daily box-office revenues**
 
 #### 🔹 Time Series Classification  
 Predicting **rating categories** from revenue trajectories
-
 - **k-Nearest Neighbors**
 - **k-Nearest Neighbors** with **Dynamic Time Warping**
 - **Random Forest**  
@@ -85,14 +78,22 @@ Predicting **rating categories** from revenue trajectories
 #### 🔹 Sequential Pattern Mining  
 Discovering **frequent sequential behaviors** and rating evolution patterns across movie data
 
----
-
 ### 🧰 Tech Stack  
 - **Python** (NumPy, Pandas, Matplotlib, scikit-learn)  
 - **XAI Libraries:** SHAP, LIME, LORE, FAT-Forensics  
 - **Time Series Libraries:** tslearn, TSFRESH, sktime, aeon  
 - **Visualization:** Matplotlib, Seaborn, t-SNE, PCA  
 
----
+<br>
+<br>
+<br>
 
-📜 *Master’s in Data Science & Business Informatics – University of Pisa (A.Y. 2024–2025)*
+<p align="center">
+<i>Master Degree in Data Science and Business Informatics</i><br>
+<i>Department of Computer Science</i><br>
+<i>Academic Year 2025/2026</i>
+</p>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/it/e/e2/Stemma_unipi.svg" width="100"/>
+</p>
